@@ -25,4 +25,4 @@ BASE_PATH = os.environ.get('OPENAI_API_BASE', 'http://localhost:8080/v1')
 
 EMBEDDINGS_MODEL_NAME = os.environ.get('EMBEDDINGS_MODEL_NAME', "all-MiniLM-L6-v2")
 
-SITEMAP = os.environ.get('SITEMAP', "https://kairos.io/sitemap.xml")
+SITEMAP = os.environ.get('SITEMAP', "https://docs.portainer.io/sitemap.xml")
